@@ -1,0 +1,22 @@
+[global_config]
+  title_font = Monaco 11
+  title_use_system_font = False
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#314c5c"
+    background_darkness = 0.93
+    background_image = None
+    font = Monaco 10
+    foreground_color = "#00ff00"
+    palette = "#000000:#cd0000:#00cd00:#cdcd00:#0000ee:#cd00cd:#00cdcd:#e5e5e5:#7f7f7f:#ff0000:#00ff00:#ffff00:#5c5cff:#ff00ff:#00ffff:#ffffff"
+    use_system_font = False
